@@ -31,21 +31,20 @@ Cada uno de estos patrones está implementado con ejemplos de código sencillos 
 
 ## Estructura del Repositorio
 
-patrones 
-├── superloop 
-├── maquina_estado 
-├── arquitectura_eventos 
-├── arquitectura_capas 
-├── arquitectura_hexagonal 
-├── cliente_servidor 
-├── comando 
-├── estrategia 
-├── fabrica 
-├── guardia_tiempo 
-├── semaforo_mutex 
-└── scheduler 
+patrones
+├── superloop
+├── maquina_estado
+├── arquitectura_eventos
+├── arquitectura_capas
+├── arquitectura_hexagonal
+├── cliente_servidor
+├── comando
+├── estrategia
+├── fabrica
+├── guardia_tiempo
+├── semaforo_mutex
+└── scheduler
 README.md
-
 
 Cada subdirectorio contiene un ejemplo de código para cada patrón, con los comentarios necesarios para explicar su funcionamiento y la aplicación de cada patrón de diseño en un contexto de sistemas embebidos.
 
@@ -66,26 +65,28 @@ Cada subdirectorio contiene un ejemplo de código para cada patrón, con los com
    ```bash
    git clone https://github.com/tu_usuario/SI4ES.git
    ```
+
 2. Navega al directorio del patrón que te interese:
 
- ```bash
- cd patrones/superloop
-```
+   ```bash
+   cd patrones/superloop
+   ```
 
 3. Abre el código en tu IDE y configura el entorno para tu plataforma embebida.
 
 4. Compila y carga el código en tu microcontrolador o plataforma embebida.
-
 5. Observa el comportamiento del sistema, que está documentado en los comentarios del código.
 
 ## Contribuciones
+
 Este repositorio está diseñado para ser un recurso educativo. Si deseas contribuir con más patrones de diseño o mejoras a los ejemplos actuales, no dudes en abrir un pull request o reportar un issue.
 
 ## Licencia
+
 Este repositorio está bajo la Licencia MIT. Para más detalles, consulta el archivo LICENSE.
 
 ## Contacto
 
 Si tienes preguntas, comentarios o sugerencias, no dudes en contactarme en:
 
-Correo: lbustio@gmail.com
+Correo: <lbustio@gmail.com>
