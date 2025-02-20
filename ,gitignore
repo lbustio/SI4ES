@@ -1,0 +1,37 @@
+# Archivos de compilación
+*.o
+*.obj
+*.so
+*.a
+*.out
+*.exe
+*.dll
+
+# Archivos de depuración
+*.dSYM/
+*.gdb_history
+
+# Directorios de compilación
+/build/
+bin/
+Debug/
+Release/
+
+# Archivos temporales de IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Archivos de configuración de compilador
+*.log
+*.err
+Makefile
+CMakeLists.txt.user
+CMakeCache.txt
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
